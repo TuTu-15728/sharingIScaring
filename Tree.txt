@@ -27,7 +27,6 @@
 │       ├── ch7.py
 │       ├── ch8.py
 │       └── ch9.py
-├── Tree.md
 └── Tree.txt
 
-5 directories, 26 files
+5 directories, 25 files
