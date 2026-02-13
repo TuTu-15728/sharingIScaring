@@ -2,6 +2,7 @@
 ├── awesome-codes
 │   ├── alphaROT.py
 │   ├── graph_tree.js
+│   ├── lgu.sh
 │   ├── look_and_say_1.py
 │   ├── look_and_say.py
 │   └── README.md
@@ -27,7 +28,8 @@
 │       ├── ch7.py
 │       ├── ch8.py
 │       └── ch9.py
+├── README.md
 ├── References.md
 └── Tree
 
-5 directories, 26 files
+5 directories, 28 files
