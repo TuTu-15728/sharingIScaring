@@ -1,5 +1,6 @@
 #!/bin/bash
 # Script for automating changes made to a repository
+# @LEDparty
 
 SCRIPT=$0
 #Allows for flexible script naming

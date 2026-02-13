@@ -2,7 +2,7 @@
 ├── awesome-codes
 │   ├── alphaROT.py
 │   ├── graph_tree.js
-│   ├── lgu.sh
+│   ├── local_github_updater.sh
 │   ├── look_and_say_1.py
 │   ├── look_and_say.py
 │   └── README.md
